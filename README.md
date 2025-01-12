@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi 👋, I'm Dhruv 
 
-<!--
-**beingdhruvv/beingdhruvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science & Engineering Diploma Student** | Passionate about **Embedded Systems**, **IoT**, **Python**, and **Web Development**.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 💻 Currently working on projects involving **Embedded IoT**, **Microcontrollers**, **Python**, and **Database Management**.
+- 🌱 Always learning and exploring new technologies to build innovative solutions.
+<!--- 🚀 Check out my projects below and feel free to connect or collaborate!-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+### Programming
+- Python, C++, Embedded C
+
+### IoT
+- Microcontroller Programming (e.g., Arduino, ESP8266/ESP32)
+- IoT Protocols (MQTT, HTTP)
+
+### Database
+- SQL (MySQL, SQLite)
+
+### Web Development
+- HTML, CSS, JavaScript (Basics)
+
+### Tools
+- Git, VS Code, PlatformIO
+
+## 📬 Let’s Connect
+- **LinkedIn:** [dhruv-suthar-496d](https://www.linkedin.com/in/dhruv-suthar-496d)
+  
