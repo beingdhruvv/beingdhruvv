@@ -11,7 +11,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=Redressed" alt="Quote"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2D9EF7&center=true&vCenter=true&random=false&width=800&lines=Building+the+future+one+line+of+code+at+a+time+%F0%9F%9A%80;Exploring+the+endless+possibilities+of+technology+%F0%9F%8C%9F" alt="Typing Quote" />
+  </a>
 </div>
 
 <br>
@@ -117,8 +119,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=beingdhruvv&label=Profile%20Views&color=blueviolet&style=for-the-badge&fontSize=100" alt="Profile Views"/>
-</div>
-
-<br>
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)]() 
+</div> 
