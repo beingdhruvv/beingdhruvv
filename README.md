@@ -1,8 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2D9EF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Dhruv+Suthar+%F0%9F%91%8B;Welcome+to+my+Profile+%F0%9F%8C%9F)](https://git.io/typing-svg)
-
-## 🎓 Computer Science & Engineering Diploma Student
-
-<div align="center">
+# <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&random=false&width=800&lines=Hey!+I'm+Dhruv+Suthar+%F0%9F%91%8B;Welcome+to+my+Profile+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
