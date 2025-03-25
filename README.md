@@ -47,34 +47,48 @@
 </p>
 </details>
 
-<h2 align="center">🛠️ Backend & Databases</h2>
+<details open>
+<summary align="center" style="font-size: 1.5em; font-weight: bold;">🛠️ Backend & Databases</summary>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
 </p>
+</details>
 
-<h2 align="center">🎨 Frontend Development</h2>
+<details open>
+<summary align="center" style="font-size: 1.5em; font-weight: bold;">🎨 Frontend Development</summary>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
+</details>
 
-<h2 align="center">📊 Data Visualization</h2>
+<details open>
+<summary align="center" style="font-size: 1.5em; font-weight: bold;">📊 Data Visualization</summary>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js"/>
 </p>
+</details>
 
-<h2 align="center">⚡ IoT & Embedded Systems</h2>
+<details open>
+<summary align="center" style="font-size: 1.5em; font-weight: bold;">⚡ IoT & Embedded Systems</summary>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
   <img src="https://img.shields.io/badge/TCP%2FIP-007ACC?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="TCP/IP"/>
   <img src="https://img.shields.io/badge/Sensor_Processing-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Sensor Processing"/>
 </p>
+</details>
 
-<h2 align="center">�� Cybersecurity</h2>
+<details open>
+<summary align="center" style="font-size: 1.5em; font-weight: bold;">🔒 Cybersecurity</summary>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/John_The_Ripper-772953?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="John The Ripper"/>
   <img src="https://img.shields.io/badge/Nmap-009FE3?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Nmap"/>
@@ -85,8 +99,11 @@
   <img src="https://img.shields.io/badge/Social_Engineering-FF6B6B?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Social Engineering"/>
   <img src="https://img.shields.io/badge/Proxy_Server-4A154B?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Proxy Server"/>
 </p>
+</details>
 
-<h2 align="center">⚙️ Tools & Platforms</h2>
+<details open>
+<summary align="center" style="font-size: 1.5em; font-weight: bold;">⚙️ Tools & Platforms</summary>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -94,6 +111,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
 </p>
+</details>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>
