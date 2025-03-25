@@ -16,10 +16,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beingdhruvv&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Github Trophy"/>
-</p>
-
 <h2 align="center">🚀 Skills & Technologies</h2>
 
 <h3 align="center">🖥 Programming Languages</h3>
@@ -89,20 +85,8 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingdhruvv&theme=radical&hide_border=true" width="400" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=beingdhruvv&show_icons=true&theme=radical&count_private=true&hide_border=true" width="400" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beingdhruvv&layout=compact&langs_count=8&theme=radical&hide_border=true" width="400" alt="Top Languages"/>
-</p>
-
-<h2 align="center">📊 Contribution Graph</h2>
-
-<p align="center">
-  <a href="https://github.com/beingdhruvv/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=beingdhruvv&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-  </a>
 </p>
 
 <h2 align="center">🤝 Connect With Me</h2>
@@ -125,8 +109,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=beingdhruvv&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&width=100%" alt="Wave Footer"/>
 </p> 
