@@ -69,8 +69,8 @@
   <a href="https://linkedin.com/in/dhruv-suthar-496d" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:dhruv.techx@gmail.com?subject=Hello%20from%20GitHub&body=Hi%20Dhruv,%20I%20found%20your%20profile%20on%20GitHub...">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:dhruv.techx@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dhruv.techx%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
