@@ -78,12 +78,11 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">📊 Most Used Languages</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=beingdhruvv&show_icons=true&theme=radical&count_private=true&hide_border=true" width="400" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beingdhruvv&layout=compact&langs_count=8&theme=radical&hide_border=true" width="400" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beingdhruvv&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=500" alt="Top Languages"/>
+</div>
 
 <h2 align="center">🤝 Connect With Me</h2>
 
