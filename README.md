@@ -57,8 +57,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beingdhruvv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingdhruvv&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=beingdhruvv&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beingdhruvv&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 🤝 Connect With Me
@@ -69,7 +69,7 @@
   <a href="https://linkedin.com/in/dhruv-suthar-496d" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:dhruv.techx@gmail.com">
+  <a href="mailto:dhruv.techx@gmail.com?subject=Hello%20from%20GitHub&body=Hi%20Dhruv,%20I%20found%20your%20profile%20on%20GitHub...">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
