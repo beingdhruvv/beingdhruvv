@@ -145,8 +145,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=beingdhruvv&label=Profile%20Views&color=blueviolet&style=for-the-badge&fontSize=100" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer" alt="Shark Footer"/>
 </div> 
