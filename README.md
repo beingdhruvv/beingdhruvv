@@ -121,25 +121,6 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beingdhruvv&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=500&title_color=2D9EF7&text_color=ffffff&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" height="30px">
-  Connect With Me
-</h1>
-
-<p align="center">
-  <a href="https://github.com/beingdhruvv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/dhruv-suthar-496d" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dhruv.techx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
 <br>
 
 <div align="center">
