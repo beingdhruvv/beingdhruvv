@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/🎓-Computer_Science_&_Engineering_Student-blue?style=for-the-badge&fontSize=100" alt="Education"/>
   <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 <br>
