@@ -1,10 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!%20I'm%20Dhruv%20Suthar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20IoT%20Enthusiast%20|%20Cybersecurity%20Researcher&descAlignY=50&descAlign=50)]()
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;IoT+Enthusiast+%F0%9F%93%A1;Cybersecurity+Researcher+%F0%9F%94%92" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/🎓-Computer_Science_&_Engineering_Student-blue?style=for-the-badge&fontSize=100" alt="Education"/>
   <br><br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
