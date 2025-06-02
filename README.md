@@ -1,6 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!%20I'm%20Dhruv%20Suthar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20IoT%20Enthusiast%20|%20Cybersecurity%20Researcher&descAlignY=50&descAlign=50)]()
 
-<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
