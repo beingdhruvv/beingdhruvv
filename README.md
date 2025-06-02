@@ -27,6 +27,9 @@
   <a href="https://pytorch.org/" target="_blank" title="PyTorch">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   </a>
+  <a href="https://riverbankcomputing.com/software/pyqt/intro" target="_blank" title="PyQt5">
+    <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=pyqt&logoColor=white" alt="PyQt5"/>
+  </a>
   <a href="https://www.javascript.com/" target="_blank" title="JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
@@ -45,6 +48,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </a>
   <a href="https://nodejs.org/" target="_blank" title="Node.js">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   </a>
@@ -54,11 +63,17 @@
   <a href="https://react.dev/" target="_blank" title="React">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   </a>
   <a href="https://www.chartjs.org/" target="_blank" title="Chart.js">
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
