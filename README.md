@@ -1,10 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!%20I'm%20Dhruv%20Suthar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20IoT%20Enthusiast%20|%20Cybersecurity%20Researcher&descAlignY=50&descAlign=50)]()
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🎓-Computer_Science_&_Engineering_Student-blue?style=for-the-badge&fontSize=100" alt="Education"/>
-  <br><br>
-</div>
-
 <br>
 
 <div align="center">
