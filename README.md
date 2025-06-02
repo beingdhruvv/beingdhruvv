@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,11,18,20,24&height=180&section=header&text=Hey!%20I'm%20Dhruv%20Suthar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20IoT%20Enthusiast%20|%20Cybersecurity%20Researcher&descAlignY=50&descAlign=50)]()
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=%23002F4B,%23007396,%2300B4DB,%233A6073,%234A00E0,%238F94FB,%2300C9A7&height=180&section=header&text=Hey!%20I'm%20Dhruv%20Suthar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20IoT%20Enthusiast%20|%20Cybersecurity%20Researcher&descAlignY=50&descAlign=50)]()
 
 
 <div align="center">
