@@ -173,8 +173,9 @@
   Analytics
 </h1>
 
+<h2 align="center">🌈 Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beingdhruvv&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=500&title_color=2D9EF7&text_color=ffffff&bg_color=0D1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingdhruvv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=500&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Top Languages"/>
 </p>
 
 <br>
