@@ -174,8 +174,8 @@
 </h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; overflow-x: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingdhruvv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=500&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=beingdhruvv&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Overall Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingdhruvv&layout=compact&langs_count=8&theme=vue&hide_border=true&card_width=500" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=beingdhruvv&show_icons=true&theme=vue&hide_border=true" alt="Overall Stats"/>
 </div>
 
 <div align="center">
